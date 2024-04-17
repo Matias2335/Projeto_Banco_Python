@@ -1,0 +1,16 @@
+Nome: Guilherme
+CPF: 43829626843
+Conta: plus
+Valor: 1000.08
+Senha: 2020
+Extrato: 28/05/2023 21:01 - 300.0 Tarifa: 0.03 Saldo: 700.03
+Extrato: 28/05/2023 21:01 + 1000.000 Tarifa: 0.00 Saldo: 1700.03
+Nome: Pedro
+CPF: 67581519058
+Conta: plus
+Valor: 7400.00
+Senha: 2020Nome: guilherme
+CPF: 2020
+Conta: comum
+Valor: 1000
+Senha: 2020
