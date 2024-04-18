@@ -1,6 +1,5 @@
 #Codigo feito por:
 #Guilherme Matias Rodrigues De Souza RA: 22.122.071-8
-#Fernando Ferreira Sanches RA: 22.222.054-3
 import re
 import time
 from datetime import datetime
